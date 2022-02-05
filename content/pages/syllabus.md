@@ -65,12 +65,57 @@ If you miss or fail an exam, you may take a make-up exam at certain arranged tim
 Grading
 -------
 
-| ACTIVITIES | WEIGHTS |
-| --- | --- |
-| Problem sets | 250 |
-| Exams | 400 |
-| Final | 250 |
-| **Total** | **900** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+250
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams
+{{< tdclose >}}
+{{< tdopen >}}
+400
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+250
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**900**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [link]({{< baseurl >}}/pages/video-lectures-creole/lecture-2-limits)
 

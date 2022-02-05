@@ -59,10 +59,219 @@ Problem Set 8 ([PDF 1]({{< baseurl >}}/resources/ps8a)) ([PDF 2]({{< baseurl >}}
 
 Exams took place in the sessions noted in the table.
 
-| SES # | EXAM # | EXAM INFORMATION | PRACTICE EXAMS | EXAMS |
-| --- | --- | --- | --- | --- |
-| 8 | 1 |  {{< br >}}{{< br >}} Covers Ses #1-7 {{< br >}}{{< br >}} Review sheet ([PDF]({{< baseurl >}}/resources/unit1_review)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Practice questions for exam 1 ([PDF]({{< baseurl >}}/resources/prexam1a)) {{< br >}}{{< br >}} Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/prexam1asolv1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/prexam1asolv2)) {{< br >}}{{< br >}} Practice exam 1 ([PDF]({{< baseurl >}}/resources/prexam1b)) {{< br >}}{{< br >}} Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam1bsol)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Exam ([PDF]({{< baseurl >}}/resources/exam1)) {{< br >}}{{< br >}} Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1sol)) {{< br >}}{{< br >}}  |
-| 17 | 2 |  {{< br >}}{{< br >}} Covers Ses #8-16 {{< br >}}{{< br >}} Review sheet ([PDF]({{< baseurl >}}/resources/unit2_review)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Practice questions for exam 2 ([PDF]({{< baseurl >}}/resources/prexam2a)) {{< br >}}{{< br >}} Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam2asol)) {{< br >}}{{< br >}} Practice exam 2 ([PDF]({{< baseurl >}}/resources/prexam2b)) {{< br >}}{{< br >}} Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam2bsol)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Exam ([PDF]({{< baseurl >}}/resources/exam2)) {{< br >}}{{< br >}} Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam2sol)) {{< br >}}{{< br >}}  |
-| 26 | 3 |  {{< br >}}{{< br >}} Covers Ses #18-24 {{< br >}}{{< br >}} Review sheet ([PDF]({{< baseurl >}}/resources/exam3review)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Practice questions for exam 3 ([PDF]({{< baseurl >}}/resources/prexam3a)) {{< br >}}{{< br >}} Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam3asol)) {{< br >}}{{< br >}} Practice exam 3 ([PDF]({{< baseurl >}}/resources/prexam3b)) {{< br >}}{{< br >}} Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam3bsol)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Exam ([PDF]({{< baseurl >}}/resources/exam3)) {{< br >}}{{< br >}} Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam3sol)) {{< br >}}{{< br >}}  |
-| 33 | 4 |  {{< br >}}{{< br >}} Covers Ses #26-32 {{< br >}}{{< br >}} Review sheet ([PDF]({{< baseurl >}}/resources/exam4review)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sheet of formulas which will be provided on exam 4 ([PDF]({{< baseurl >}}/resources/exm4formulasheet)) {{< br >}}{{< br >}} Practice questions for exam 4 ([PDF]({{< baseurl >}}/resources/prexam4a)) {{< br >}}{{< br >}} Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam4asol)) {{< br >}}{{< br >}} Practice exam 4 ([PDF]({{< baseurl >}}/resources/prexam4b)) {{< br >}}{{< br >}} Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam4bsol)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Exam ([PDF]({{< baseurl >}}/resources/exam4)) {{< br >}}{{< br >}} Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam4sol)) {{< br >}}{{< br >}}  |
-| &nbsp; | Final |  {{< br >}}{{< br >}} Covers the entire semester's work, including all the material since exam 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} End of term info ([PDF]({{< baseurl >}}/resources/endoftermf06)) {{< br >}}{{< br >}} Practice final ([PDF]({{< baseurl >}}/resources/prfinal)) {{< br >}}{{< br >}} Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prfinalsol)) {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+EXAM #
+{{< thclose >}}
+{{< thopen >}}
+EXAM INFORMATION
+{{< thclose >}}
+{{< thopen >}}
+PRACTICE EXAMS
+{{< thclose >}}
+{{< thopen >}}
+EXAMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covers Ses #1-7
+
+Review sheet ([PDF]({{< baseurl >}}/resources/unit1_review))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Practice questions for exam 1 ([PDF]({{< baseurl >}}/resources/prexam1a))
+
+Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/prexam1asolv1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/prexam1asolv2))
+
+Practice exam 1 ([PDF]({{< baseurl >}}/resources/prexam1b))
+
+Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam1bsol))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exam ([PDF]({{< baseurl >}}/resources/exam1))
+
+Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1sol))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covers Ses #8-16
+
+Review sheet ([PDF]({{< baseurl >}}/resources/unit2_review))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Practice questions for exam 2 ([PDF]({{< baseurl >}}/resources/prexam2a))
+
+Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam2asol))
+
+Practice exam 2 ([PDF]({{< baseurl >}}/resources/prexam2b))
+
+Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam2bsol))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exam ([PDF]({{< baseurl >}}/resources/exam2))
+
+Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam2sol))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covers Ses #18-24
+
+Review sheet ([PDF]({{< baseurl >}}/resources/exam3review))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Practice questions for exam 3 ([PDF]({{< baseurl >}}/resources/prexam3a))
+
+Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam3asol))
+
+Practice exam 3 ([PDF]({{< baseurl >}}/resources/prexam3b))
+
+Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam3bsol))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exam ([PDF]({{< baseurl >}}/resources/exam3))
+
+Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam3sol))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covers Ses #26-32
+
+Review sheet ([PDF]({{< baseurl >}}/resources/exam4review))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sheet of formulas which will be provided on exam 4 ([PDF]({{< baseurl >}}/resources/exm4formulasheet))
+
+Practice questions for exam 4 ([PDF]({{< baseurl >}}/resources/prexam4a))
+
+Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam4asol))
+
+Practice exam 4 ([PDF]({{< baseurl >}}/resources/prexam4b))
+
+Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam4bsol))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exam ([PDF]({{< baseurl >}}/resources/exam4))
+
+Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam4sol))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covers the entire semester's work, including all the material since exam 4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+End of term info ([PDF]({{< baseurl >}}/resources/endoftermf06))
+
+Practice final ([PDF]({{< baseurl >}}/resources/prfinal))
+
+Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prfinalsol))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
