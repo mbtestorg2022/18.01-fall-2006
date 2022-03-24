@@ -102,11 +102,11 @@ Review sheet ([PDF]({{< baseurl >}}/resources/unit1_review))
 
 Practice questions for exam 1 ([PDF]({{< baseurl >}}/resources/prexam1a))
 
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/prexam1asolv1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/prexam1asolv2))
+Solutions ([PDF 1]({{< baseurl >}}/resources/prexam1asolv1)) ([PDF 2]({{< baseurl >}}/resources/prexam1asolv2))
 
 Practice exam 1 ([PDF]({{< baseurl >}}/resources/prexam1b))
 
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam1bsol))
+Solutions ([PDF]({{< baseurl >}}/resources/prexam1bsol))
 
 
 {{< tdclose >}}
@@ -115,7 +115,7 @@ Solutions (![This resource may not render correctly in a screen reader.](/images
 
 Exam ([PDF]({{< baseurl >}}/resources/exam1))
 
-Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1sol))
+Solution ([PDF]({{< baseurl >}}/resources/exam1sol))
 
 
 {{< tdclose >}}
@@ -142,11 +142,11 @@ Review sheet ([PDF]({{< baseurl >}}/resources/unit2_review))
 
 Practice questions for exam 2 ([PDF]({{< baseurl >}}/resources/prexam2a))
 
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam2asol))
+Solutions ([PDF]({{< baseurl >}}/resources/prexam2asol))
 
 Practice exam 2 ([PDF]({{< baseurl >}}/resources/prexam2b))
 
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam2bsol))
+Solutions ([PDF]({{< baseurl >}}/resources/prexam2bsol))
 
 
 {{< tdclose >}}
@@ -155,7 +155,7 @@ Solutions (![This resource may not render correctly in a screen reader.](/images
 
 Exam ([PDF]({{< baseurl >}}/resources/exam2))
 
-Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam2sol))
+Solution ([PDF]({{< baseurl >}}/resources/exam2sol))
 
 
 {{< tdclose >}}
@@ -182,11 +182,11 @@ Review sheet ([PDF]({{< baseurl >}}/resources/exam3review))
 
 Practice questions for exam 3 ([PDF]({{< baseurl >}}/resources/prexam3a))
 
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam3asol))
+Solutions ([PDF]({{< baseurl >}}/resources/prexam3asol))
 
 Practice exam 3 ([PDF]({{< baseurl >}}/resources/prexam3b))
 
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam3bsol))
+Solutions ([PDF]({{< baseurl >}}/resources/prexam3bsol))
 
 
 {{< tdclose >}}
@@ -195,7 +195,7 @@ Solutions (![This resource may not render correctly in a screen reader.](/images
 
 Exam ([PDF]({{< baseurl >}}/resources/exam3))
 
-Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam3sol))
+Solution ([PDF]({{< baseurl >}}/resources/exam3sol))
 
 
 {{< tdclose >}}
@@ -224,11 +224,11 @@ Sheet of formulas which will be provided on exam 4 ([PDF]({{< baseurl >}}/resour
 
 Practice questions for exam 4 ([PDF]({{< baseurl >}}/resources/prexam4a))
 
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam4asol))
+Solutions ([PDF]({{< baseurl >}}/resources/prexam4asol))
 
 Practice exam 4 ([PDF]({{< baseurl >}}/resources/prexam4b))
 
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prexam4bsol))
+Solutions ([PDF]({{< baseurl >}}/resources/prexam4bsol))
 
 
 {{< tdclose >}}
@@ -237,7 +237,7 @@ Solutions (![This resource may not render correctly in a screen reader.](/images
 
 Exam ([PDF]({{< baseurl >}}/resources/exam4))
 
-Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam4sol))
+Solution ([PDF]({{< baseurl >}}/resources/exam4sol))
 
 
 {{< tdclose >}}
@@ -264,7 +264,7 @@ End of term info ([PDF]({{< baseurl >}}/resources/endoftermf06))
 
 Practice final ([PDF]({{< baseurl >}}/resources/prfinal))
 
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prfinalsol))
+Solutions ([PDF]({{< baseurl >}}/resources/prfinalsol))
 
 
 {{< tdclose >}}
