@@ -119,4 +119,4 @@ Final
 
 [link]({{< baseurl >}}/pages/video-lectures-creole/lecture-2-limits)
 
-[link2](/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits/18_01_f07_lec02_Creole_new2.srt)
+{{% resource_link "4cde6610-10ce-e735-cfc8-4d408eafe006" "link2" %}}

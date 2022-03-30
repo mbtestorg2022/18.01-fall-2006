@@ -6,6 +6,7 @@ description: 'Lecture notes for lecture sessions 9 through 16 of the course.  To
   differentials, antiderivatives, differential equations, and separation of variables.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-01-single-variable-calculus-fall-2006/97124709de1bc662ca39fd2acfee25c0_unit2_sept08.pdf
 file_type: application/pdf
+parent_uid: 6005d379-62c4-200a-f129-7fe3c6e6007a
 resourcetype: Document
 title: 'Ses #9-16 Complete'
 uid: 97124709-de1b-c662-ca39-fd2acfee25c0
