@@ -8,7 +8,7 @@ uid: 65cb45fb-6cb0-1e83-dce4-85f41e5471b5
 
  
 
-[https://ocwnext.odl.mit.edu/courses/18-01-single-variable-calculus-fall-2006/](https://ocwnext.odl.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+[/courses/18-01-single-variable-calculus-fall-2006/](/courses/18-01-single-variable-calculus-fall-2006/)
 
  
 
